@@ -1,5 +1,7 @@
 # Gadvia all-unlocked save data
 
+[中文](https://github.com/UlyssesZh/gadvia-all-unlocked/blob/master/README.zh.md)
+
 The save data of an all-unlocked
 [Gadvia](https://web.archive.org/web/20250116194526/https://gadvia.wixsite.com/gadvia/en)
 game account.
